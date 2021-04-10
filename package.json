@@ -1,0 +1,15 @@
+{
+  "name": "richard_herlihy-d19125630-lab-7",
+  "version": "1.0.0",
+  "description": "Web Applications Lab 7 - Node & Express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js"
+  },
+  "author": "Richard Herlihy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
